@@ -1,0 +1,4 @@
+VirtualOrganisation = "see";
+Executable = "crawler.py";
+InputSandbox = {"/home/gkollias/gridjob/crawler.py"};
+OutputSandbox = {"links.txt"};
